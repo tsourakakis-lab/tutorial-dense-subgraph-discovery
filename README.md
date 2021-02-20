@@ -1,1 +1,1 @@
-# dense-subgraph-discovery
+# Dense subgraph discovery 
