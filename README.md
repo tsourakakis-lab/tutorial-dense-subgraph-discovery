@@ -1,3 +1,2 @@
-# Dense subgraph discovery 
+# Tutorial SIAM Data Mining 2021   
 
-Given a graph a possibly directed, weighted graph $G(V,E,w)$, how do we find a dense subgraph $S\subseteq V$?
